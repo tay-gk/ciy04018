@@ -14,7 +14,20 @@
 .my-div1{
     color:aqua;
     font-size: 3rem;
-    background-color: blueviolet
+    background-color: blueviolet;
     
+.outer-div{
+    background-color: black;
+    color: white;
+
+}
+
+.inner-div{
+    border: 30px 30px pink;
+    margin: 20px 2
     
+}
+
+.my-list{
+    list-style-type:square;
 }
