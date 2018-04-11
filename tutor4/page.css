@@ -16,3 +16,22 @@
 
 }
 
+@media (min-width:768px) {
+
+
+    .my_title {
+        font-size: 60px;
+        color:blue
+    }
+    
+}
+
+@media(max-width::768px) {
+
+    .my_title {
+        font: size 20px;
+        
+
+    }
+
+}
