@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
 
 .my-container{
-	background-image: url('stripe_background.png');
 	border: 1px solid #aaa;
 	max-width: 400px;
 	margin: 110px auto 10px auto;
-	padding: 1rem;
+	padding: 1rem;	
 	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 	font-family: "Lato";
 }
@@ -13,6 +12,7 @@
 	text-align: center;
 }
 .my-container ul{
+	background-image: url('stripe_background.png');
 	max-width: 200px;
 	margin: auto;
 }
@@ -30,6 +30,7 @@
 /*6. shift the image up with margin-top: -100px*/
 .my-face{
 	display: block;
+	background-image: url('stripe_background.png');
 	width: 200px;
 	height: 200px;
 	margin-left: auto;

@@ -1,0 +1,18 @@
+
+.my-link{
+
+    font: weight 800;
+}
+.my-link:hover, .my-link:active{
+
+    background:blue;
+    color: red;
+    margin-left:1rem;
+}
+
+.my-link:visited{
+
+    color:yellow;
+
+}
+
